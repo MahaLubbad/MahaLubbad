@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
+*I'm Maha* :slightly_smiling_face:
+
+### About me
+I'm civil engineer, i'm currently learning web development.
+### What do i do for fun ? 
+I like walking outside in nature and watching movies.
+### Contact me ..
+*mahashour16@gmail.com*
+
+
 
 <!--
 **MahaLubbad/MahaLubbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
