@@ -4,7 +4,7 @@
 ### About me
 I'm civil engineer, i'm currently learning web development.
 ### What do i do for fun ? 
-I like walking outside in nature and watching movies.
+I like hiking and watching movies.
 ### Contact me ..
 *mahashour16@gmail.com*
 
