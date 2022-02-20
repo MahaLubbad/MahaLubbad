@@ -3,10 +3,10 @@
 
 ### About me
 I'm civil engineer, i'm currently learning web development.
-### languages..
-1. Arabic (mother language).
-2. English ( intermediate level).
-3. french ( intermediate level).
+### Languages..
+1. Arabic (Mother language).
+2. English (Intermediate level).
+3. french ( Intermediate level).
 ### What do i do for fun ? 
 I like hiking and watching movies.
 
