@@ -1,5 +1,4 @@
-### Hi there 👋 
-*I'm Maha* :slightly_smiling_face:
+### Hi there 👋, *I'm Maha* :slightly_smiling_face:
 
 ### About me
 - 👩🏻‍🎓 I have completed 9 months web development program at [HackYourFuture Belgium](https://github.com/HackYourFutureBelgium).
