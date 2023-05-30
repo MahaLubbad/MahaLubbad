@@ -16,7 +16,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 - 🗣️ I speak Arabic, English and French.
-- ⚡  Fun fact: I am civil engineer.
+<!-- - ⚡  Fun fact: I am civil engineer.-->
 
 ###  Contact me  
 - Email : [mahashour16@gmail.com](mailto:mahashour16@gmail.com)
